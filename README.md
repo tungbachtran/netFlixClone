@@ -66,7 +66,7 @@ npm >= 8.0.0
 Cài đặt
 Clone repository
 
-git clone https://github.com/yourusername/netflix-clone.git
+git clone https://github.com/tungbachtran/netflix-clone.git
 cd netflix-clone
 Cài đặt dependencies
 

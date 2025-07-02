@@ -1,7 +1,7 @@
 
 🎬 Netflix Clone
 Một ứng dụng streaming video clone Netflix được xây dựng bằng React, cung cấp trải nghiệm xem phim tương tự Netflix với giao diện hiện đại và responsive.
-Link demo: https://net-flix-clone-eosin.vercel.app/
+Link demo: https://net-flix-clone-tungbachtrans-projects.vercel.app/
 📸 Screenshots
 
 Landingpage
